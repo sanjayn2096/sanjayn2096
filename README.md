@@ -34,10 +34,9 @@ An **Expo React Native** app that turns travel photo metadata into narrated trav
 ## Tech I Work With
 
 - **Mobile:** Flutter, Dart, Kotlin, Jetpack, React Native, Expo, TypeScript
-- **Backend:** Firebase Functions, Supabase, Edge Functions, Node.js, Express
+- **Backend:** Firebase Functions, Supabase, AWS ECS, GCP, 
 - **Data and Auth:** Firestore, Supabase Postgres, Firebase Auth, Supabase Auth, Hive
-- **AI:** recipe generation, assistant flows, vision/photo workflows, personalization, prompt-driven UX
-- **Product:** onboarding, subscriptions, premium tiers, telemetry, saved state, cross-platform polish
+- **AI:** : YOLOx (Image Recogntion), Langchain, Claude, OpenRouter, Pinecone Vector DB
 
 ## What I Like Building
 
