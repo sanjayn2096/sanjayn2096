@@ -1,51 +1,63 @@
-# Hi, I'm Sanjay
+# 👋 Hello there, welcome!
 
-I build mobile apps that turn practical everyday ideas into polished AI-powered products. My work usually sits at the intersection of mobile UX, backend services, and applied AI: recipe generation, travel storytelling, media workflows, personalization, and useful assistants that feel simple on the surface.
+I'm Sanjay, a mobile developer who enjoys building practical, polished apps with AI woven into the product experience.
 
-## Hobby Projects I have worked on
+I like working on apps that help people do something useful, Most of my work sits around Android, Flutter, React Native, backend services, and AI-powered product features.
 
-### [RecipeAI Flutter](https://github.com/sanjayn2096/RecipeAI-flutter)
+Feel free to reach out if you want to chat about mobile apps, Android, AI product ideas, or anything in between.
 
-A cross-platform AI cooking app built with **Flutter** and **Dart**. It helps users generate recipes, cook from pantry ingredients, plan meals, create grocery lists, import recipes, and use premium recipe assistants.
+## 📫 Contact Me
 
-- Built for Android, iOS, and web
-- Uses Firebase-backed APIs, auth, analytics, and cloud sync
-- Includes local persistence with Hive for saved recipes, meal plans, and grocery lists
-- Features AI recipe generation, pantry scan, recipe import, cook mode, and meal planning
+- GitHub: [@sanjayn2096](https://github.com/sanjayn2096)
+- LinkedIn: www.linkedin.com/in/sanjay2096
 
-### [RecipeAI Jetpack](https://github.com/sanjayn2096/RecipeAI-Jetpack)
+## 🏗️ Currently Working On
 
-A native Android version of RecipeAI built with **Kotlin** and modern Android tooling. This project showcases my Android-specific work and focuses on generating recipes from a user's mood, preferences, and cooking context.
+- AI-powered mobile products
+- Android apps with Kotlin and Jetpack
+- Cross-platform apps with Flutter and React Native
+- Backend integrations with Firebase, Supabase, and serverless functions
+- Product flows that combine clean UX with useful AI features
 
-- Native Android app written in Kotlin
-- Explores AI-assisted recipe generation from user preferences
-- Highlights Android app architecture, stateful UI, and product iteration
-- Earlier native foundation for the broader RecipeAI product direction
+## 📸 Projects
 
-### [WanderStories Mobile](https://github.com/sanjayn2096/wanderstories-mobile)
+[RecipeAI Flutter - Cross-platform AI cooking app](https://github.com/sanjayn2096/RecipeAI-flutter)
 
-An **Expo React Native** app that turns travel photo metadata into narrated travel stories. WanderStories uses location and time context to cluster trips, build routes, and generate story-like recaps from real journeys.
+An AI recipe generation that turns images into meals. Just snap what ingredients you have and the app tells you what you can cook. 
 
-- Built with React Native, Expo, TypeScript, and Expo Router
-- Uses Supabase for auth, persistence, and Edge Functions
-- Clusters photo metadata into trips, days, stops, and routes
-- Generates AI-powered travel stories while keeping photo bytes on device
+[RecipeAI Jetpack - Native Android AI recipe app](https://github.com/sanjayn2096/RecipeAI-Jetpack)
 
-## Tech I Work With
+THe same app built using Kotlin Android app that showcases my native Android work. It focuses on generating recipes from a user's mood, preferences, and cooking context while exploring Android app architecture, stateful UI, and product iteration.
 
-- **Mobile:** Flutter, Dart, Kotlin, Jetpack, React Native, Expo, TypeScript
-- **Backend:** Firebase Functions, Supabase, AWS ECS, GCP, 
-- **Data and Auth:** Firestore, Supabase Postgres, Firebase Auth, Supabase Auth, Hive
-- **AI:** : YOLOx (Image Recogntion), Langchain, Claude, OpenRouter, Pinecone Vector DB
+[WanderStories Mobile - AI travel stories from photo metadata](https://github.com/sanjayn2096/wanderstories-mobile)
 
-## What I Like Building
+An  app that turns travel photo metadata into narrated travel stories. Frontend is built using React Native and backedn is hosted using Supabase auth, persistence, and Edge Functions to cluster photos into trips, days, stops, and routes while keeping photo bytes on device.
 
-I like building apps that feel useful quickly: tools where AI is not just a chat box, but part of a thoughtful product flow. RecipeAI is about helping people decide what to cook and follow through. WanderStories is about turning memories into something easier to revisit and share.
+## 👨‍💻 My Tech Stack
 
-I care about clean mobile experiences, practical architecture, and shipping products that can grow from prototype to real users.
+- Android
+- Kotlin
+- Jetpack Compose
+- Flutter
+- Dart
+- React Native
+- TypeScript
+- Google Cloud Platform(Cloud Functions, Big Store)
+- Supabase
+- Node.js
+- Gemini
+- Claude
+- Cursor
 
-## Links
+## 💻 My Toolkit
 
-- [RecipeAI Flutter](https://github.com/sanjayn2096/RecipeAI-flutter)
-- [RecipeAI Jetpack](https://github.com/sanjayn2096/RecipeAI-Jetpack)
-- [WanderStories Mobile](https://github.com/sanjayn2096/wanderstories-mobile)
+- IDEs: Android Studio, Xcode, Cursor, VS Code
+- Mobile: Android, iOS, Expo, Flutter
+- Backend: Firebase Functions, Supabase Edge Functions, Express
+- Data: Firestore, Supabase Postgres, Hive, local-first mobile storage
+
+## ✨ What I Like Building
+
+I like building apps where AI is part of a thoughtful workflow, not just a chat box. RecipeAI helps people decide what to cook and follow through. WanderStories helps people turn trips and photos into something easier to revisit and share.
+
+I'm especially interested in mobile products that feel simple, useful, and ready to grow from prototype to real users.
