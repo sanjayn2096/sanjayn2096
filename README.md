@@ -2,7 +2,7 @@
 
 I build mobile apps that turn practical everyday ideas into polished AI-powered products. My work usually sits at the intersection of mobile UX, backend services, and applied AI: recipe generation, travel storytelling, media workflows, personalization, and useful assistants that feel simple on the surface.
 
-## Featured Projects
+## Hobby Projects I have worked on
 
 ### [RecipeAI Flutter](https://github.com/sanjayn2096/RecipeAI-flutter)
 
