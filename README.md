@@ -13,11 +13,9 @@ Feel free to reach out if you want to chat about mobile apps, Android, AI produc
 
 ## 🏗️ Currently Working On
 
-- AI-powered mobile products
+- AI Job Search Agent 
 - Android apps with Kotlin and Jetpack
 - Cross-platform apps with Flutter and React Native
-- Backend integrations with Firebase, Supabase, and serverless functions
-- Product flows that combine clean UX with useful AI features
 
 ## 📸 Projects
 
