@@ -1,8 +1,8 @@
 # 👋 Hello there, welcome!
 
-I'm Sanjay, a mobile developer who enjoys building practical, polished apps with AI woven into the product experience.
+I'm Sanjay, a developer who enjoys building practical, polished apps with AI woven into the product experience.
 
-I like working on apps that help people do something useful, Most of my work sits around Android, Flutter, React Native, backend services, and AI-powered product features.
+I am currently enjoying building AI Agents for my own needs. This is the current project I am working on - JobSeachAgent
 
 Feel free to reach out if you want to chat about mobile apps, Android, AI product ideas, or anything in between.
 
