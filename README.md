@@ -33,6 +33,17 @@ THe same app built using Kotlin Android app that showcases my native Android wor
 
 An  app that turns travel photo metadata into narrated travel stories. Frontend is built using React Native and backedn is hosted using Supabase auth, persistence, and Edge Functions to cluster photos into trips, days, stops, and routes while keeping photo bytes on device.
 
+## 📦 More Repos
+
+<!-- REPOS:START -->
+- [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) — An AI Agent to search for jobs · Python
+- [RecipeAI-flutter](https://github.com/sanjayn2096/RecipeAI-flutter) — A Cross-Platform version of the RecipeAI Application · Dart
+- [wanderstories-mobile](https://github.com/sanjayn2096/wanderstories-mobile) — A new way to build your travel stories. Don't just capture them. Live them. · TypeScript
+- [wanderstories-backend](https://github.com/sanjayn2096/wanderstories-backend) — The backend for the devices to connect to API's that enable them to create beautiful travel stories. · JavaScript
+- [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — No description yet. · TypeScript
+- [ServooBackend](https://github.com/sanjayn2096/ServooBackend) — No description yet. · Python
+<!-- REPOS:END -->
+
 ## 👨‍💻 My Tech Stack
 
 - Android
