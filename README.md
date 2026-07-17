@@ -13,7 +13,7 @@ Feel free to reach out if you want to chat about mobile apps, Android, AI produc
 
 ## 🏗️ Currently Working On
 
-- AI Job Search Agent 
+- Job Search Agent 
 - Android apps with Kotlin and Jetpack
 - Cross-platform apps with Flutter and React Native
 
@@ -21,7 +21,7 @@ Feel free to reach out if you want to chat about mobile apps, Android, AI produc
 
 [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) 
 
-An AI Agent to search for jobs · Python · FastAPI · LangGraph · Claude · MCP  
+An LLM Agent to search and apply for jobs · Python · FastAPI · LangGraph · Claude · MCP  
 
 [RecipeAI Flutter - Cross-platform AI cooking app](https://github.com/sanjayn2096/RecipeAI-flutter)
 
