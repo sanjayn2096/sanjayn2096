@@ -39,12 +39,10 @@ An  app that turns travel photo metadata into narrated travel stories. Frontend 
 ## 📦 More Repos
 
 <!-- REPOS:START -->
+- [DataAnalyticsAgent](https://github.com/sanjayn2096/DataAnalyticsAgent) — An Agent to analyse data for the user · Python
 - [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) — An AI Agent to search for jobs · Python
-- [RecipeAI-flutter](https://github.com/sanjayn2096/RecipeAI-flutter) — A Cross-Platform version of the RecipeAI Application · Dart
-- [wanderstories-mobile](https://github.com/sanjayn2096/wanderstories-mobile) — A new way to build your travel stories. Don't just capture them. Live them. · TypeScript
 - [wanderstories-backend](https://github.com/sanjayn2096/wanderstories-backend) — The backend for the devices to connect to API's that enable them to create beautiful travel stories. · JavaScript
 - [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — No description yet. · TypeScript
-- [ServooBackend](https://github.com/sanjayn2096/ServooBackend) — No description yet. · Python
 <!-- REPOS:END -->
 
 ## 👨‍💻 My Tech Stack

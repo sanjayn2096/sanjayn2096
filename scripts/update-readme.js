@@ -4,9 +4,12 @@ const username = "sanjayn2096";
 
 const ignoredRepos = new Set([
   "RecipeAI",
+  "RecipeAI-flutter",
+  "ServooBackend",
   "myfirstapp",
   "sensor-record",
   "sanjayn2096",
+  "wanderstories-mobile",
 ]);
 
 const start = "<!-- REPOS:START -->";
