@@ -37,17 +37,19 @@ An  app that turns travel photo metadata into narrated travel stories. Frontend 
 
 <!-- REPOS:START -->
 - [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) — An AI Agent to search for jobs · Python
-- [RecipeAI-flutter](https://github.com/sanjayn2096/RecipeAI-flutter) — A Cross-Platform version of the RecipeAI Application · Dart
-- [wanderstories-mobile](https://github.com/sanjayn2096/wanderstories-mobile) — A new way to build your travel stories. Don't just capture them. Live them. · TypeScript
 - [wanderstories-backend](https://github.com/sanjayn2096/wanderstories-backend) — The backend for the devices to connect to API's that enable them to create beautiful travel stories. · JavaScript
-- [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — No description yet. · TypeScript
-- [ServooBackend](https://github.com/sanjayn2096/ServooBackend) — No description yet. · Python
+- [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — Discovery tool for finding common problems people are facing· TypeScript
+- [ServooBackend](https://github.com/sanjayn2096/ServooBackend) — A restaurant POS system that can work on Mobile devices · Python
 <!-- REPOS:END -->
 
 ## 👨‍💻 My Tech Stack
 
 - Android
 - Kotlin
+- Python
+- FastAPI
+- Flask
+- MCP
 - Jetpack Compose
 - Flutter
 - Dart
@@ -64,11 +66,5 @@ An  app that turns travel photo metadata into narrated travel stories. Frontend 
 
 - IDEs: Android Studio, Xcode, Cursor, VS Code
 - Mobile: Android, iOS, Expo, Flutter
-- Backend: Firebase Functions, Supabase Edge Functions, Express
-- Data: Firestore, Supabase Postgres, Hive, local-first mobile storage
-
-## ✨ What I Like Building
-
-I like building apps where AI is part of a thoughtful workflow, not just a chat box. RecipeAI helps people decide what to cook and follow through. WanderStories helps people turn trips and photos into something easier to revisit and share.
-
-I'm especially interested in mobile products that feel simple, useful, and ready to grow from prototype to real users.
+- Backend: Firebase Functions, Supabase Edge Functions, ECS, Docker
+- Data: Firestore, Supabase Postgres, Hive, RoomDb, Big Store, S3, Lambda
