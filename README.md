@@ -17,15 +17,20 @@ Feel free to reach out if you want to chat about mobile apps, Android, AI produc
 - Android apps with Kotlin and Jetpack
 - Cross-platform apps with Flutter and React Native
 
-## 📸 Projects
+## 📸 Current Projects I am working on
+
+[JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) 
+
+An AI Agent to search for jobs · Python · FastAPI · LangGraph · Claude · MCP  
 
 [RecipeAI Flutter - Cross-platform AI cooking app](https://github.com/sanjayn2096/RecipeAI-flutter)
 
 An AI recipe generation that turns images into meals. Just snap what ingredients you have and the app tells you what you can cook. 
+The App is live on Play store - Check It out - https://play.google.com/store/apps/details?id=com.sunj.souschefai
 
 [RecipeAI Jetpack - Native Android AI recipe app](https://github.com/sanjayn2096/RecipeAI-Jetpack)
 
-THe same app built using Kotlin Android app that showcases my native Android work. It focuses on generating recipes from a user's mood, preferences, and cooking context while exploring Android app architecture, stateful UI, and product iteration.
+The same app built using Kotlin Android app that showcases my native Android work. It focuses on generating recipes from a user's mood, preferences, and cooking context while exploring Android app architecture, stateful UI, and product iteration.
 
 [WanderStories Mobile - AI travel stories from photo metadata](https://github.com/sanjayn2096/wanderstories-mobile)
 
@@ -34,7 +39,6 @@ An  app that turns travel photo metadata into narrated travel stories. Frontend 
 ## 📦 More Repos
 
 <!-- REPOS:START -->
-- [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) — An AI Agent to search for jobs · Python
 - [wanderstories-backend](https://github.com/sanjayn2096/wanderstories-backend) — The backend for the devices to connect to API's that enable them to create beautiful travel stories. · JavaScript
 - [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — Discovery tool for finding common problems people are facing· TypeScript
 - [ServooBackend](https://github.com/sanjayn2096/ServooBackend) — A restaurant POS system that can work on Mobile devices · Python
