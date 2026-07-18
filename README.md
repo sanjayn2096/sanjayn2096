@@ -39,8 +39,8 @@ An  app that turns travel photo metadata into narrated travel stories. Frontend 
 ## 📦 More Repos
 
 <!-- REPOS:START -->
-- [DataAnalyticsAgent](https://github.com/sanjayn2096/DataAnalyticsAgent) — An Agent to analyse data for the user · Python
 - [JobSearchAgent](https://github.com/sanjayn2096/JobSearchAgent) — An AI Agent to search for jobs · Python
+- [DataAnalyticsAgent](https://github.com/sanjayn2096/DataAnalyticsAgent) — An Agent to analyse data for the user · Python
 - [wanderstories-backend](https://github.com/sanjayn2096/wanderstories-backend) — The backend for the devices to connect to API's that enable them to create beautiful travel stories. · JavaScript
 - [reddit-problem-scout](https://github.com/sanjayn2096/reddit-problem-scout) — No description yet. · TypeScript
 <!-- REPOS:END -->
